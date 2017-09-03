@@ -1,3 +1,3 @@
 ## Welcome to Sami's Github Page
 
-Please use this link to view repositories: https://github.com/stmian
+Please use [this link](https://github.com/stmian) to view repositories
